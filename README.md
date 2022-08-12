@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pirthamsangione and welcome to my github
-- 👀 I’m interested in sports-betting and geoscience
+- 👀 I’m interested in geoscience and sports-betting
 - 🌱 I’m currently learning to code in Python and soon SQL
 - Stay tuned for exciting projects I am working on
 
